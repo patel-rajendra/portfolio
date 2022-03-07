@@ -1,6 +1,7 @@
 # Portfolio
 I created my Portfolia site using HTML & CSS.
-![portfolia](https://user-images.githubusercontent.com/99554262/156971230-d52f1cc4-6e74-439e-ba2d-939ff9636b44.jpg)
+![portfolia_1](https://user-images.githubusercontent.com/99554262/156971859-0441679d-7ca0-4e51-9707-95142e188a0e.jpg)
+
 
 # Acceptance Criteria
 - Presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
